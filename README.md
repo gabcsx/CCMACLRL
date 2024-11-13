@@ -79,7 +79,8 @@ The structure is designed to keep course materials organized and provide clear s
 ## Disclaimer/Acknowledgment
 Please note that the materials and links provided throughout this course are for educational purposes only. 
 I do not own any of the content or external resources linked. These materials are intended to support the learning process and should be used in accordance with copyright laws and fair use policies. 
-All rights to external content and resources belong to their respective owners (<a href="https://github.com/robitussin" target="_blank">GitHub Repository</a>).
+All rights to external content and resources belong to their respective owners. 
+[GitHub Repository](https://github.com/robitussin){:target="_blank"}
 
 #### [Back to Top](#ccmaclrl---introduction-to-machine-learning)
 
