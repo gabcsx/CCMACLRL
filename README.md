@@ -9,7 +9,7 @@
 - [Learning Outcomes](#learning-outcomes)
 - [Course Outline](#course-outline)
 - [Repository Structure](#repository-structure)
-- [Disclaimer/Acknowledgment](#disclaimeracknowledgment)
+- [Disclaimer/Acknowledgment](#disclaimer--acknowledgment)
 
 ## Overview
 Machine Learning (ML) is a field of artificial intelligence (AI) that enables systems to learn from data and improve over time. This course offers an introduction to ML, covering its fundamental concepts, practical applications, and techniques. Machine learning is transforming industries such as healthcare, finance, technology, and more, making it essential for anyone interested in data science, AI, or technology-driven fields. By the end of this course, learners will understand how to apply machine learning models to solve real-world problems, from data preprocessing to model evaluation.
@@ -76,7 +76,7 @@ This repository is organized into the following folders:
 
 The structure is designed to keep course materials organized and provide clear separation between exam resources, exercises, the final project, and any media assets, allowing for efficient learning and project management.
 
-## Disclaimer/Acknowledgment
+## Disclaimer / Acknowledgment
 Please note that the materials and links provided throughout this course are for educational purposes only. 
 I do not own any of the content or external resources linked. These materials are intended to support the learning process and should be used in accordance with copyright laws and fair use policies. 
 All rights to external content and resources belong to their respective owners. 
