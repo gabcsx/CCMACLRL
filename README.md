@@ -83,11 +83,3 @@ All rights to external content and resources belong to their respective owners.
 <a href="https://github.com/robitussin" target="_blank">GitHub Repository</a>
 
 #### [Back to Top](#ccmaclrl---introduction-to-machine-learning)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF72B&width=435&lines=Thank+you+for+visiting!"/>
-</p>
-
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY0bnBvbHkwOWJocGRvbG5pemR2am9tNWhqbDZmMHdrOHZuZW8wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dO3HccHwl9xeVzAe8c/giphy.webp" width="300"/>
-</p>
